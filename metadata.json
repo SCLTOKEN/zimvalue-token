@@ -1,0 +1,11 @@
+{
+"name": "ZimValue Protocol",
+"symbol": "ZVP",
+"description": "ZVP é um token simbólico e filosófico criado para transformar ruínas monetárias em capital narrativo. Um experimento de valor, ética e impacto.",
+"image": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/zvp.png",
+"properties": {
+"category": "token",
+"creators": ["Dr. Walter Sparta"],
+"rights": "30% destinado a impacto africano via DAO"
+}
+}
