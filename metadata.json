@@ -1,11 +1,15 @@
-{
+
 "name": "ZimValue Protocol",
 "symbol": "ZVP",
-"description": "ZVP é um token simbólico e filosófico criado para transformar ruínas monetárias em capital narrativo. Um experimento de valor, ética e impacto.",
+"description": "ZVP is a symbolic and scientific token designed to turn monetary collapse into narrative capital. Backed by patents, real products and human impact, 30% of the supply is reserved for Africa-focused DAO.",
 "image": "https://raw.githubusercontent.com/SCLTOKEN/zimvalue-token/main/zvp.png",
-"properties": {
+"project": "ZVP",
 "category": "token",
-"creators": ["Dr. Walter Sparta"],
-"rights": "30% destinado a impacto africano via DAO"
+"creators": ["Prof. Dr. Walter Pereira"],
+"external_links": {
+"website": "https://zvptoken.com",
+"twitter": "https://x.com/zvptoken",
+"instagram": "https://instagram.com/zimvalue",
+"whitepaper": "https://zvptoken.com/whitepaper-v2.1.pdf"
 }
 }
