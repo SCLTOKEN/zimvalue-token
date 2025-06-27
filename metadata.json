@@ -1,15 +1,18 @@
-
-"name": "ZimValue Protocol",
+{
+"name": "ZVP Token",
 "symbol": "ZVP",
-"description": "ZVP is a symbolic and scientific token designed to turn monetary collapse into narrative capital. Backed by patents, real products and human impact, 30% of the supply is reserved for Africa-focused DAO.",
-"image": "https://raw.githubusercontent.com/SCLTOKEN/zimvalue-token/main/zvp.png",
-"project": "ZVP",
-"category": "token",
-"creators": ["Prof. Dr. Walter Pereira"],
+"description": "Token oficial do ZimValue Protocol. Baseado em ciência, impacto social e propriedade intelectual registrada. Criado pelo Dr. Walter Pereira. Supply total de 1 bilhão. Lançamento: 22 de dezembro.",
+"image": "https://gateway.pinata.cloud/ipfs/bafybeihlgz3dybpbln4mdacohdyqekrjwoj2jhvegh3obuhzqhr7z4k7ny/logo-zvp.png",
 "external_links": {
 "website": "https://zvptoken.com",
 "twitter": "https://x.com/zvptoken",
 "instagram": "https://instagram.com/zimvalue",
+"youtube": "https://www.youtube.com/channel/UCZNbgw9MQmYo0PeNcU14low",
 "whitepaper": "https://zvptoken.com/whitepaper-v2.1.pdf"
-}
+},
+"creator": "Dr. Walter Pereira",
+"collection": "ZimValue Protocol",
+"decimals": 9,
+"supply": "1000000000",
+"mint": "AVWZXs4PLGvjUnYbypcum9eoKda3zwLqnzhRC2c3g7dy"
 }
